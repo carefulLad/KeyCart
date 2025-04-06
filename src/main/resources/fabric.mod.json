@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "untitled4",
+  "version": "${version}",
+  "name": "untitled4",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/untitled4/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.untitled4.client.TntCartCombo"
+    ],
+    "main": [
+      "com.example.untitled4.Untitled4"
+    ]
+  },
+  "mixins": [
+    "untitled4.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

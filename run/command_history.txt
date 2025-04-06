@@ -1,0 +1,49 @@
+/enchant @s minecraft:power 5
+/enchant @s minecraft:flame 2
+/enchant @s minecraft:flame 1
+/give @s minecraft:tnt_minecart
+/give @s bow
+/give @s rail
+/give @s minecraft:tnt_minecart
+/give @s bow
+/give @s rail
+/give @s bow
+/give @s minecraft:tnt_minecart
+/give @s rail
+/give @s minecraft:tnt_minecart
+/give @s bow
+/give @s rail
+/give @s bow
+/give @s minecraft:tnt_minecart
+/enchant @s flame
+/give @s vo
+/give @s bow
+/give @s rail
+/give @s minecraft:tnt_minecart
+/enchant @s minecraft:flame
+/give @s rail[
+/give @s rail
+/give @s minecraft:tnt_minecart
+/give @s bow
+/enchant @s minecraft:flame
+/tp fastmeteor2 @s
+/tp @e[type=item] @s
+/enchant @s minecraft:flame
+/tp fastmeteor2
+/give @s bow
+/give @s minecraft:rail
+/give @s minecraft:tnt_minecart
+/enchant @s minecraft:flame
+/tp fastmeteor2 @s
+/give @s rail
+/give @s minecraft:tnt_minecart
+/give @s bow
+/enchant @s minecraft:flame
+/give @s rail[
+/give @s rail
+/give @s minecraft:tnt_minecart
+/give @s bow
+/tp fastmeteor2 @s
+/enchant @s minecraft:flame
+/summon minecraft:warden
+/tp fastmeteor2 @s
